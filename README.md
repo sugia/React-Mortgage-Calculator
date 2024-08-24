@@ -5,6 +5,9 @@ A React component that enables users to calculate their mortgage payments, featu
 
 https://realkit.jomimi.com/calculator
 
+![realkit_mortgage_calculator](https://github.com/user-attachments/assets/a8026075-a03d-4369-955a-68aa5ceac1b8)
+
+
 ## Getting Started
 ```
 git clone https://github.com/sugia/React-Mortgage-Calculator.git
